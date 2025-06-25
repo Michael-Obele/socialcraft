@@ -1,0 +1,53 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 MiniApps. All rights reserved.
+
+This software and associated documentation files (the "Software") are the 
+proprietary and confidential property of the copyright holder and are protected 
+by copyright and other intellectual property laws. Unauthorized use, copying, 
+modification, distribution, or disclosure of this Software is strictly 
+prohibited without the express written permission of the copyright holder.
+
+RESTRICTED USES
+
+1. HACKATHON PARTICIPATION
+   - This Software was created specifically for participation in AWS Lambda Hackathon.
+   - Any use of this Software in any other hackathon, competition, or similar 
+     event is strictly prohibited without prior written authorization.
+
+2. COMMERCIAL USE
+   - This Software may not be used for commercial purposes of any kind without 
+     the express written permission of the copyright holder.
+
+3. DISTRIBUTION AND MODIFICATION
+   - You may not distribute, publish, sublicense, or otherwise make available 
+     the Software, or any portion thereof, to any third party.
+   - You may not modify, adapt, translate, reverse engineer, decompile, 
+     disassemble, or create derivative works based on the Software.
+
+4. COPYRIGHT NOTICE
+   - Any copies of this Software must include this copyright notice and 
+     permission notice.
+
+5. NO WARRANTY
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+     OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+     IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+6. TERMINATION
+   - This License is effective until terminated. Your rights under this License 
+     will terminate automatically without notice if you fail to comply with 
+     any term(s) of this License.
+
+7. GOVERNING LAW
+   - This License shall be governed by and construed in accordance with the 
+     laws of the United States, without regard to its conflict of laws 
+     principles.
+
+For permission requests, contact: admin@svelte-apps.me
+
+Last updated: June 25, 2025
